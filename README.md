@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! i am Protap Chakma  . i am a Computer Science Engineering student at Chattogram Polytechnic Institute, currently studying in the 5th semester. My home district is Khagrachhari, Chattogram, Bangladesh. I am motivated to learn new technologies and improve my technical skills, i have basic knowledge of HTML, CSS, java script,python,java and computer applications. I am seeking opportunities to gain practical experience and grow professionally in the IT field.<br><br>
+Hi! i am Protap Chakma  . i am a Computer Science and Engineering student at Chattogram Polytechnic Institute, currently studying in the 5th semester. My home district is Khagrachhari, Chattogram, Bangladesh. I am motivated to learn new technologies and improve my technical skills, i have basic knowledge of HTML, CSS, java script,python,java and computer applications. I am seeking opportunities to gain practical experience and grow professionally in the IT field.<br><br>
 
 
 ## 🌐 Socials:
